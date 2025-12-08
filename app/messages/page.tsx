@@ -23,7 +23,7 @@ export default function MessagesPage() {
 
   return (
     <div>
-      <h2 className="text-3xl font-bold mb-6">Friends of Mercy Message Board</h2>
+      <h2 className="text-3xl text-center font-bold mb-6">Friends of Mercy Message Board</h2>
 
       {/* Form */}
       <form onSubmit={handleSubmit} className="space-y-4 mb-8">

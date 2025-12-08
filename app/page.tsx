@@ -7,10 +7,10 @@ export default function TributePage() {
       <div className="max-w-3xl mx-auto py-16 px-6">
         {/* Header */}
         <header className="text-center mb-12">
-          <h1 className="text-4xl font-bold text-gray-900">
+          <h1 className="text-4xl font-bold text-violet-900">
             A Tribute to a Life of Love and Legacy
           </h1>
-          <p className="mt-4 text-lg text-gray-600 italic">
+          <p className="mt-4 text-lg font-bold text-gray-600 italic">
             In Loving Memory of Mum
           </p>
         </header>
@@ -52,24 +52,24 @@ export default function TributePage() {
           </p>
 
           <p>
-            I will greatly miss our special bond, Mum. I will miss the times she
-            called me <span className="font-semibold">"Wakarobia"</span> and I
-            affectionately called her <span className="font-semibold">"Wakiranga"</span>.
-            Those moments were precious to me, and I will cherish them forever.
+            I will greatly miss our special bond, Mum. I will miss the times you
+            fondly called me <span className="font-semibold">"Wakarobia"</span> and I
+            respectfully and affectionately called you <span className="font-semibold">"Wakiranga"</span>.
+            Those moments are precious to me, and I will cherish them forever.
           </p>
 
           <p>
-            I'll never forget our last conversation on her hospital bed. I told
-            her, "Mum, since I've already moved out, you should be the one to
-            visit me next time, accompanied by Elijah." She smiled, blessed me,
-            and wished me success in all my future endeavors. Those words, that
+            I will never forget our last conversation on your hospital bed. I told
+            you, "Mum, since I have recently moved out of home, you should be visiting
+            me very soon at my new place accompanied by Elijah." She smiled and blessed me,
+            and wished me success in all my future endeavors. That smile and those words of 
             blessing, will stay with me forever.
           </p>
 
           <p>
-            As we bid farewell to Mum, we take comfort in the lessons she taught
-            us: the importance of love, kindness, and community. Her legacy will
-            live on through us, inspiring us to live lives of purpose,
+            As we bid you farewell, I take comfort in the lessons you taught
+            us all along: the importance of love, kindness, and community participation.
+            Your legacy will live on through us, inspiring us to live lives of purpose,
             compassion, and service to others.
           </p>
 
