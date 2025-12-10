@@ -1,6 +1,8 @@
 // app/tribute/page.tsx
 import React from "react";
 
+import EulogyPoem from '../../components/EulogyPoem';
+
 export default function TributePage() {
   return (
     <main className="min-h-screen bg-gray-50 text-gray-800">
@@ -79,6 +81,9 @@ export default function TributePage() {
 
           <p className="mt-8 text-right italic">With love,<br />Mercy Elijah Kimotho</p>
         </article>
+      </div>
+      <div>
+        <EulogyPoem />
       </div>
     </main>
   );
