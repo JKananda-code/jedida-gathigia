@@ -1,6 +1,8 @@
 // app/messages/page.tsx
 "use client";
 
+import EulogyPoem from '../../components/EulogyPoem';
+
 import { useState } from "react";
 
 interface Message {
@@ -60,6 +62,10 @@ export default function MessagesPage() {
           </div>
         ))}
       </div>
+      <div>
+        <EulogyPoem />
+      </div>
     </div>
+  
   );
 }

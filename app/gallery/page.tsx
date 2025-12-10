@@ -3,9 +3,9 @@ import Image from "next/image";
 
 export default function GalleryPage() {
   const photos = [
+    { src: "/images/Jedida-03.jpeg", alt: "Mum was Always Smiling" },
     { src: "/images/Jedida-02.jpeg", alt: "Coming from Community Event" },
     { src: "/images/mum3.jpeg", alt: "Attentive at Recent Family Gathering" },
-    { src: "/images/Jedida-03.jpeg", alt: "Mum was Always Smiling" },
   ];
 
   return (
